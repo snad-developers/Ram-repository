@@ -1,0 +1,24 @@
+D:\VS DOTNET\Graduate-Trainee-s-Lab-Work\RamaKrishna\HRMSProject\HRMSProject.Models\bin\Debug\net6.0\HRMSProject.Models.deps.json
+D:\VS DOTNET\Graduate-Trainee-s-Lab-Work\RamaKrishna\HRMSProject\HRMSProject.Models\bin\Debug\net6.0\HRMSProject.Models.dll
+D:\VS DOTNET\Graduate-Trainee-s-Lab-Work\RamaKrishna\HRMSProject\HRMSProject.Models\bin\Debug\net6.0\HRMSProject.Models.pdb
+D:\VS DOTNET\Graduate-Trainee-s-Lab-Work\RamaKrishna\HRMSProject\HRMSProject.Models\obj\Debug\net6.0\HRMSProject.Models.csproj.AssemblyReference.cache
+D:\VS DOTNET\Graduate-Trainee-s-Lab-Work\RamaKrishna\HRMSProject\HRMSProject.Models\obj\Debug\net6.0\HRMSProject.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS DOTNET\Graduate-Trainee-s-Lab-Work\RamaKrishna\HRMSProject\HRMSProject.Models\obj\Debug\net6.0\HRMSProject.Models.AssemblyInfoInputs.cache
+D:\VS DOTNET\Graduate-Trainee-s-Lab-Work\RamaKrishna\HRMSProject\HRMSProject.Models\obj\Debug\net6.0\HRMSProject.Models.AssemblyInfo.cs
+D:\VS DOTNET\Graduate-Trainee-s-Lab-Work\RamaKrishna\HRMSProject\HRMSProject.Models\obj\Debug\net6.0\HRMSProject.Models.csproj.CoreCompileInputs.cache
+D:\VS DOTNET\Graduate-Trainee-s-Lab-Work\RamaKrishna\HRMSProject\HRMSProject.Models\obj\Debug\net6.0\HRMSProject.Models.dll
+D:\VS DOTNET\Graduate-Trainee-s-Lab-Work\RamaKrishna\HRMSProject\HRMSProject.Models\obj\Debug\net6.0\refint\HRMSProject.Models.dll
+D:\VS DOTNET\Graduate-Trainee-s-Lab-Work\RamaKrishna\HRMSProject\HRMSProject.Models\obj\Debug\net6.0\HRMSProject.Models.pdb
+D:\VS DOTNET\Graduate-Trainee-s-Lab-Work\RamaKrishna\HRMSProject\HRMSProject.Models\obj\Debug\net6.0\ref\HRMSProject.Models.dll
+E:\Ram-repository\HRMSProject\HRMSProject.Models\bin\Debug\net6.0\HRMSProject.Models.deps.json
+E:\Ram-repository\HRMSProject\HRMSProject.Models\bin\Debug\net6.0\HRMSProject.Models.dll
+E:\Ram-repository\HRMSProject\HRMSProject.Models\bin\Debug\net6.0\HRMSProject.Models.pdb
+E:\Ram-repository\HRMSProject\HRMSProject.Models\obj\Debug\net6.0\HRMSProject.Models.csproj.AssemblyReference.cache
+E:\Ram-repository\HRMSProject\HRMSProject.Models\obj\Debug\net6.0\HRMSProject.Models.GeneratedMSBuildEditorConfig.editorconfig
+E:\Ram-repository\HRMSProject\HRMSProject.Models\obj\Debug\net6.0\HRMSProject.Models.AssemblyInfoInputs.cache
+E:\Ram-repository\HRMSProject\HRMSProject.Models\obj\Debug\net6.0\HRMSProject.Models.AssemblyInfo.cs
+E:\Ram-repository\HRMSProject\HRMSProject.Models\obj\Debug\net6.0\HRMSProject.Models.csproj.CoreCompileInputs.cache
+E:\Ram-repository\HRMSProject\HRMSProject.Models\obj\Debug\net6.0\HRMSProject.Models.dll
+E:\Ram-repository\HRMSProject\HRMSProject.Models\obj\Debug\net6.0\refint\HRMSProject.Models.dll
+E:\Ram-repository\HRMSProject\HRMSProject.Models\obj\Debug\net6.0\HRMSProject.Models.pdb
+E:\Ram-repository\HRMSProject\HRMSProject.Models\obj\Debug\net6.0\ref\HRMSProject.Models.dll

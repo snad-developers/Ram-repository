@@ -1,0 +1,28 @@
+D:\VS DOTNET\Graduate-Trainee-s-Lab-Work\RamaKrishna\HRMSProject\HRMSProject.Repository\bin\Debug\net6.0\HRMSProject.Repository.deps.json
+D:\VS DOTNET\Graduate-Trainee-s-Lab-Work\RamaKrishna\HRMSProject\HRMSProject.Repository\bin\Debug\net6.0\HRMSProject.Repository.runtimeconfig.json
+D:\VS DOTNET\Graduate-Trainee-s-Lab-Work\RamaKrishna\HRMSProject\HRMSProject.Repository\bin\Debug\net6.0\HRMSProject.Repository.dll
+D:\VS DOTNET\Graduate-Trainee-s-Lab-Work\RamaKrishna\HRMSProject\HRMSProject.Repository\bin\Debug\net6.0\HRMSProject.Repository.pdb
+D:\VS DOTNET\Graduate-Trainee-s-Lab-Work\RamaKrishna\HRMSProject\HRMSProject.Repository\obj\Debug\net6.0\HRMSProject.Repository.csproj.AssemblyReference.cache
+D:\VS DOTNET\Graduate-Trainee-s-Lab-Work\RamaKrishna\HRMSProject\HRMSProject.Repository\obj\Debug\net6.0\HRMSProject.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS DOTNET\Graduate-Trainee-s-Lab-Work\RamaKrishna\HRMSProject\HRMSProject.Repository\obj\Debug\net6.0\HRMSProject.Repository.AssemblyInfoInputs.cache
+D:\VS DOTNET\Graduate-Trainee-s-Lab-Work\RamaKrishna\HRMSProject\HRMSProject.Repository\obj\Debug\net6.0\HRMSProject.Repository.AssemblyInfo.cs
+D:\VS DOTNET\Graduate-Trainee-s-Lab-Work\RamaKrishna\HRMSProject\HRMSProject.Repository\obj\Debug\net6.0\HRMSProject.Repository.csproj.CoreCompileInputs.cache
+D:\VS DOTNET\Graduate-Trainee-s-Lab-Work\RamaKrishna\HRMSProject\HRMSProject.Repository\obj\Debug\net6.0\HRMSProject.Repository.dll
+D:\VS DOTNET\Graduate-Trainee-s-Lab-Work\RamaKrishna\HRMSProject\HRMSProject.Repository\obj\Debug\net6.0\refint\HRMSProject.Repository.dll
+D:\VS DOTNET\Graduate-Trainee-s-Lab-Work\RamaKrishna\HRMSProject\HRMSProject.Repository\obj\Debug\net6.0\HRMSProject.Repository.pdb
+D:\VS DOTNET\Graduate-Trainee-s-Lab-Work\RamaKrishna\HRMSProject\HRMSProject.Repository\obj\Debug\net6.0\HRMSProject.Repository.genruntimeconfig.cache
+D:\VS DOTNET\Graduate-Trainee-s-Lab-Work\RamaKrishna\HRMSProject\HRMSProject.Repository\obj\Debug\net6.0\ref\HRMSProject.Repository.dll
+E:\Ram-repository\HRMSProject\HRMSProject.Repository\bin\Debug\net6.0\HRMSProject.Repository.deps.json
+E:\Ram-repository\HRMSProject\HRMSProject.Repository\bin\Debug\net6.0\HRMSProject.Repository.runtimeconfig.json
+E:\Ram-repository\HRMSProject\HRMSProject.Repository\bin\Debug\net6.0\HRMSProject.Repository.dll
+E:\Ram-repository\HRMSProject\HRMSProject.Repository\bin\Debug\net6.0\HRMSProject.Repository.pdb
+E:\Ram-repository\HRMSProject\HRMSProject.Repository\obj\Debug\net6.0\HRMSProject.Repository.csproj.AssemblyReference.cache
+E:\Ram-repository\HRMSProject\HRMSProject.Repository\obj\Debug\net6.0\HRMSProject.Repository.GeneratedMSBuildEditorConfig.editorconfig
+E:\Ram-repository\HRMSProject\HRMSProject.Repository\obj\Debug\net6.0\HRMSProject.Repository.AssemblyInfoInputs.cache
+E:\Ram-repository\HRMSProject\HRMSProject.Repository\obj\Debug\net6.0\HRMSProject.Repository.AssemblyInfo.cs
+E:\Ram-repository\HRMSProject\HRMSProject.Repository\obj\Debug\net6.0\HRMSProject.Repository.csproj.CoreCompileInputs.cache
+E:\Ram-repository\HRMSProject\HRMSProject.Repository\obj\Debug\net6.0\HRMSProject.Repository.dll
+E:\Ram-repository\HRMSProject\HRMSProject.Repository\obj\Debug\net6.0\refint\HRMSProject.Repository.dll
+E:\Ram-repository\HRMSProject\HRMSProject.Repository\obj\Debug\net6.0\HRMSProject.Repository.pdb
+E:\Ram-repository\HRMSProject\HRMSProject.Repository\obj\Debug\net6.0\HRMSProject.Repository.genruntimeconfig.cache
+E:\Ram-repository\HRMSProject\HRMSProject.Repository\obj\Debug\net6.0\ref\HRMSProject.Repository.dll

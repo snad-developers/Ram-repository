@@ -1,0 +1,24 @@
+D:\VS DOTNET\Graduate-Trainee-s-Lab-Work\RamaKrishna\HRMSProject\HRMSProject.Communication\bin\Debug\net6.0\HRMSProject.Communication.deps.json
+D:\VS DOTNET\Graduate-Trainee-s-Lab-Work\RamaKrishna\HRMSProject\HRMSProject.Communication\bin\Debug\net6.0\HRMSProject.Communication.dll
+D:\VS DOTNET\Graduate-Trainee-s-Lab-Work\RamaKrishna\HRMSProject\HRMSProject.Communication\bin\Debug\net6.0\HRMSProject.Communication.pdb
+D:\VS DOTNET\Graduate-Trainee-s-Lab-Work\RamaKrishna\HRMSProject\HRMSProject.Communication\obj\Debug\net6.0\HRMSProject.Communication.csproj.AssemblyReference.cache
+D:\VS DOTNET\Graduate-Trainee-s-Lab-Work\RamaKrishna\HRMSProject\HRMSProject.Communication\obj\Debug\net6.0\HRMSProject.Communication.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS DOTNET\Graduate-Trainee-s-Lab-Work\RamaKrishna\HRMSProject\HRMSProject.Communication\obj\Debug\net6.0\HRMSProject.Communication.AssemblyInfoInputs.cache
+D:\VS DOTNET\Graduate-Trainee-s-Lab-Work\RamaKrishna\HRMSProject\HRMSProject.Communication\obj\Debug\net6.0\HRMSProject.Communication.AssemblyInfo.cs
+D:\VS DOTNET\Graduate-Trainee-s-Lab-Work\RamaKrishna\HRMSProject\HRMSProject.Communication\obj\Debug\net6.0\HRMSProject.Communication.csproj.CoreCompileInputs.cache
+D:\VS DOTNET\Graduate-Trainee-s-Lab-Work\RamaKrishna\HRMSProject\HRMSProject.Communication\obj\Debug\net6.0\HRMSProject.Communication.dll
+D:\VS DOTNET\Graduate-Trainee-s-Lab-Work\RamaKrishna\HRMSProject\HRMSProject.Communication\obj\Debug\net6.0\refint\HRMSProject.Communication.dll
+D:\VS DOTNET\Graduate-Trainee-s-Lab-Work\RamaKrishna\HRMSProject\HRMSProject.Communication\obj\Debug\net6.0\HRMSProject.Communication.pdb
+D:\VS DOTNET\Graduate-Trainee-s-Lab-Work\RamaKrishna\HRMSProject\HRMSProject.Communication\obj\Debug\net6.0\ref\HRMSProject.Communication.dll
+E:\Ram-repository\HRMSProject\HRMSProject.Communication\bin\Debug\net6.0\HRMSProject.Communication.deps.json
+E:\Ram-repository\HRMSProject\HRMSProject.Communication\bin\Debug\net6.0\HRMSProject.Communication.dll
+E:\Ram-repository\HRMSProject\HRMSProject.Communication\bin\Debug\net6.0\HRMSProject.Communication.pdb
+E:\Ram-repository\HRMSProject\HRMSProject.Communication\obj\Debug\net6.0\HRMSProject.Communication.csproj.AssemblyReference.cache
+E:\Ram-repository\HRMSProject\HRMSProject.Communication\obj\Debug\net6.0\HRMSProject.Communication.GeneratedMSBuildEditorConfig.editorconfig
+E:\Ram-repository\HRMSProject\HRMSProject.Communication\obj\Debug\net6.0\HRMSProject.Communication.AssemblyInfoInputs.cache
+E:\Ram-repository\HRMSProject\HRMSProject.Communication\obj\Debug\net6.0\HRMSProject.Communication.AssemblyInfo.cs
+E:\Ram-repository\HRMSProject\HRMSProject.Communication\obj\Debug\net6.0\HRMSProject.Communication.csproj.CoreCompileInputs.cache
+E:\Ram-repository\HRMSProject\HRMSProject.Communication\obj\Debug\net6.0\HRMSProject.Communication.dll
+E:\Ram-repository\HRMSProject\HRMSProject.Communication\obj\Debug\net6.0\refint\HRMSProject.Communication.dll
+E:\Ram-repository\HRMSProject\HRMSProject.Communication\obj\Debug\net6.0\HRMSProject.Communication.pdb
+E:\Ram-repository\HRMSProject\HRMSProject.Communication\obj\Debug\net6.0\ref\HRMSProject.Communication.dll
